@@ -9,7 +9,7 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 public class MsDiscoveryApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MsDiscoveryApplication.class, args);
+		SpringApplication.run(MsDiscoveryApplication.class);
 	}
 
 }
